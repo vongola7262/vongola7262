@@ -12,12 +12,12 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Ethan ! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About Me ! 
 *Digital Craftsman (Developer / artist?)*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I’m currently working as a Frontend Engineer, learning Reactjs and Nextjs </p>
+<p align="left">I’m Ethan a currently working as a Frontend Engineer, learning Reactjs and Nextjs </p>
 
 - I'm a 17 year old undergraduate student at NIBM 🚀
 - I’m currently developing a school web app 🏫
