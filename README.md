@@ -8,7 +8,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="assets/github-removebg-preview.png">
+  <img align="right" width="40%" src="assets/github-bg.png">
 </div>
 
 <!--Header Name-->
