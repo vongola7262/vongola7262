@@ -1,8 +1,8 @@
 
 <!--[![Hello World, I'm Jasper!](assets/header.gif)](https://github.com/kshyun28)-->
 <div align="center">
-  <a href="">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=88DDFE&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+coding+world+~;I'm+Ethan;Web+Developer+%2F+Pok%C3%A9mon+Trainer+" alt="Typing SVG" />
+  <a href="" height=100>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=88DDFE&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Coding+World+~;I'm+Ethan;Web+Developer+%2F+Pok%C3%A9mon+Trainer+" alt="I'm Ethan" />
   </a>
 </div>
 
@@ -13,16 +13,16 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About Me ! 
-*Digital Craftsman (Developer / artist?)*
+*Digital Craftsman ( Developer / Artist? )*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I’m Ethan a currently working as a Frontend Engineer, learning Reactjs and Nextjs </p>
+<p align="left">I’m Ethan a passionate Frontend Engineer, currently learn React and Nextjs </p>
 
-- I'm a 17 year old undergraduate student at NIBM 🚀
-- I’m currently developing a school web app 🏫
-- I’m looking to contribute to open source 🙌 
-- Fun fact: I love to create games 👾
+- Web engineer born in the Department of Fine Arts 🎨
+- Self taught web, dynamic and app developer 🖥️
+- I believe in learning through practice 🌱
+- Fun fact: Pokemon and illustrations 👾
 <br>
 
 ##  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30" height="30" class="giphy-embed"></img> My Tech Stack 
