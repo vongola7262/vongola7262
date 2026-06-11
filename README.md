@@ -22,7 +22,6 @@
 - Web engineer born in the Department of Fine Arts 🎨
 - Self taught web, dynamic and app developer 🖥️
 - I believe in learning through practice 🌱
-- Fun fact: Pokemon and illustrations 👾
 <br>
 
 ##  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30" height="30" class="giphy-embed"></img> My Tech Stack 
